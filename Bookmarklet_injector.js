@@ -1,6 +1,3 @@
-Put this code in a bookmark called IMGMATHBG:
-
-
 javascript:(function(){
 	var script=document.createElement('script');
 	script.type='text/javascript';
