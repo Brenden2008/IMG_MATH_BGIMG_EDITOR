@@ -1,7 +1,7 @@
 Put this code in a bookmark called IMGMATHBG:
 
 
-javascript(function(){
+javascript:(function(){
 	var script=document.createElement('script');
 	script.type='text/javascript';
 	script.src='https://gitcdn.xyz/repo/Brenden2008/IMG_MATH_BGIMG_EDITOR/master/script_INJECT.js';
